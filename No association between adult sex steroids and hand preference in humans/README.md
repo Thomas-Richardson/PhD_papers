@@ -1,4 +1,4 @@
-# left_handedness_hormones
+# No association between adult sex steroids and hand preference in humans
 The code for my project on whether left and mixed handers have different Oestradiol and Testosterone levels to right handers
 
 The project uses publicly available health data from the US National Health And Nutrition Examination Survey (NHANES). 
